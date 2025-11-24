@@ -1,0 +1,55 @@
+Moby Dick ANIMAL
+Leviathan ANIMAL
+White Whale ANIMAL
+Sperm Whale ANIMAL
+Whale ANIMAL
+Whales ANIMAL
+Narwhal ANIMAL
+Kraken ANIMAL
+Sea Serpent ANIMAL
+Cetus ANIMAL
+
+Ishmael PERSON
+Ahab PERSON
+Queequeg PERSON
+Tashtego PERSON
+Dagoo PERSON
+Starbuck PERSON
+Flask PERSON
+Stubb PERSON
+Fedallah PERSON
+Bildad PERSON
+Captain Boomer PERSON
+Coffin PERSON
+Perth PERSON
+Steelkilt PERSON
+Bunger PERSON
+Don Pedro PERSON
+Don Sebastian PERSON
+Zoroaster PERSON
+Zarathustra PERSON
+
+Pequod SHIP
+Rachel SHIP
+Town-Ho SHIP
+Samuel Enderby SHIP
+Albatross SHIP
+Monkey-Rope SHIP
+
+Nantucket LOCATION
+New Bedford LOCATION
+Spouter-Inn LOCATION
+Pacific LOCATION
+Cape Horn LOCATION
+Arctic LOCATION
+Yedo LOCATION
+Manhattoes LOCATION
+Carthage LOCATION
+Trafalgar LOCATION
+Greenwich LOCATION
+Hyde Park LOCATION
+Cape of Good Hope LOCATION
+Indian Ocean LOCATION
+Java Sea LOCATION
+Try-Pots LOCATION
+Coffin-House PLACE
