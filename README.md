@@ -1,2 +1,2 @@
-# nlp-projects
-Small NLP Projects based off research workshop at UTD
+# NLP Projects
+A collection of small NLP Projects from work at research workshop @ UTD
